@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Tahoma, sans-serif;
+}
+#wrapper{
+	padding: 0px 20px;
+}
+#header {
+	height: 400px;
+	padding-top: 75px;
+	background-color: #2f3b3b;
+	color: aliceblue;
+	text-align: center;
+}
+#header h1{
+	display: block;
+	font-size: 60px;
+}
+#header .application{
+	display: inline-block;
+	margin-top: 50px;
+	padding: 15px 50px ;
+	border: 1px solid aliceblue;
+	font-size: 20px;
+	
+}
+#container .profile{
+
+}
+
